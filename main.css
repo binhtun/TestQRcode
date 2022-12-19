@@ -1,0 +1,61 @@
+
+.title{
+    text-align: center;
+    color: red;
+}
+.anhcheck{
+    width: 100%;
+    text-align: center;
+}
+.spch{
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+    font-weight: 600;
+}
+.lco{
+    margin-top: -10px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(38, 168, 75);
+    font-weight: 200;
+}
+.serial{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(203, 27, 27);
+    font-weight: 200;
+}
+h3{
+    margin-top: -10px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(38, 168, 75);
+    font-weight: 600;
+}
+.day{
+    margin-top: -15px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(38, 168, 75);
+    font-weight: 200;
+}
+.date{
+    font-weight: 600;
+}
+.slq{
+    margin-top: -10px;
+    text-align: center;
+    font-size:16px;
+    color: rgb(38, 168, 75);
+    font-weight: 200;
+}
+.gach{
+    text-align: center;
+}
+.anh2{
+    width: 100%;
+    text-align: center;
+}
